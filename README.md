@@ -9,7 +9,18 @@
  `single file` · `no build step` · `three.js` · `WebGL2`
 
 ---
+#Gameplay
+<img width="1920" height="1080" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/8b62325d-5e4b-4420-8fdb-c709b89cc318" />
+<img width="1920" height="1080" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/4368c173-a8a2-4071-ad0d-7bbcd2ad5752" />
+<img width="1920" height="1080" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/f07ffcc0-cf9b-4272-9ecb-93c545182892" />
 
+
+
+
+
+
+
+---
  ## Quick Start
 
  ### Option A — Just Open It
