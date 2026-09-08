@@ -14,11 +14,8 @@ Developed by Hussain — the film opens on a black leader where the credit types
 1. Download `index.html`
 2. Double-click it. That's it.
 
-### Option B — Share Live with GitHub Pages
-1. Create a repository containing `index.html` and this `README.md`
-2. Navigate to **Repo → Settings → Pages**
-3. Under **Source**, select **Deploy from a branch** set to `main` / `root`
-4. Access your live film at: `https://<username>.github.io/<repo>/`
+### Option B —
+Click the link: https://xpxxxu.github.io/High-Graphics-FlappyBird/
 
 > **Note:** Requires a modern browser (Chrome / Edge / Firefox / Safari 16.4+) and an internet connection on first load to fetch `three.js` and the bird model from CDN. Nothing is ever uploaded; high scores are saved locally via `localStorage`.
 
@@ -259,6 +256,6 @@ renderer ──► sky ──► lights ──► procedural textures ──► 
 
 ---
 
-**Author:** Developed by Mahus
+**Author:** Developed by Hussain
 
 ```
